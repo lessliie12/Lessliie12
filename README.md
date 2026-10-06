@@ -60,14 +60,12 @@ class Leslie:
 
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=github-compact&hide_border=true)
 
----
 
 # ⚡ Metas actuales
 
 ```
 🎯 Crear experiencias web interactivas que sorprendan
-
-
+```
 
 ---
 
@@ -75,8 +73,7 @@ class Leslie:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lezly-chima-espitia-321428372/?isSelfProfile=true)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lessliie_ce/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](lesliiespittia12@gmail.com
-)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lesliiespittia12@gmail.com)
 
 ---
 
