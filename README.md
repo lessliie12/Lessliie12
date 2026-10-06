@@ -4,9 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Estudiante+de+Desarrollo+de+Software;Full+Stack+Developer;Laravel+%7C+Web+%7C+Bases+de+datos;Construyendo+proyectos+reales...)](https://git.io/typing-svg)
 
-![Followers](https://img.shields.io/github/followers/TU_USUARIO?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/TU_USUARIO?style=for-the-badge)
-![Views](https://komarev.com/ghpvc/?username=TU_USUARIO&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/lessliie12?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/lessliie12?style=for-the-badge)
 
 ---
 
@@ -21,7 +20,7 @@ class Leslie:
         self.city = "Medellín"
         self.role = "Estudiante de Tecnología en Desarrollo de Software"
         self.school = "Politécnico Colombiano Jaime Isaza Cadavid"
-        self.username = "TU_USUARIO"
+        self.username = "lessliie12"
 
         self.interests = [
             "Desarrollo web",
@@ -39,7 +38,7 @@ class Leslie:
 # 👩‍💻 Sobre mí
 
 - 🇨🇴 Desde Medellín, Colombia
-- 🎓 Estudiante Tecnología en Desarrollo de Software
+- 🎓 Estudiando Tecnología en Desarrollo de Software
 - 🌐 Me encanta crear experiencias web personalizadas e interactivas
 - 🌱 Aprendiendo cosas nuevas cada semana
 - 📚 Siempre construyendo proyectos reales
@@ -52,14 +51,20 @@ class Leslie:
 
 ---
 
+# 📂 Proyectos destacados
+
+| Proyecto | Descripción |
+| -------- | ----------- |
+| ✈️ [AeroMonitor](https://github.com/lessliie12/aeromonitor) | App full-stack para monitoreo de flota de aeronaves |
+| 🗳️ [PLAPPU](https://github.com/lessliie12/plappu) | Plataforma Laravel para gestión de votantes en campañas |
+
 ---
 
 # 📊 GitHub Analytics
 
-![Stats](https://streak-stats.demolab.com?user=TU_USUARIO&theme=github-dark-blue&hide_border=true)
+![Stats](https://streak-stats.demolab.com?user=lessliie12&theme=github-dark-blue&hide_border=true)
 
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=github-compact&hide_border=true)
-
+---
 
 # ⚡ Metas actuales
 
