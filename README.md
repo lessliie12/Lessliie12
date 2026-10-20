@@ -44,7 +44,7 @@ class Leslie:
 # 🧑‍💻 Sobre mí
 
 - 🇨🇴 Desde Medellín, Colombia
-- 🎓 Estudiando Tecnología en Desarrollo de Software
+- 🎓 Estudiante de Tecnología en Desarrollo de Software
 - 🌐 Me encanta crear experiencias web personalizadas e interactivas
 - 🏗️ Me muevo entre desarrollo full stack, arquitectura de software y microservicios
 - 📊 Hago análisis y automatización de datos con Power BI
