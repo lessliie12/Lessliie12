@@ -15,7 +15,7 @@
 
 ---
 
-# 💻 whoami
+# 💻 Me
 
 ```python
 class Leslie:
